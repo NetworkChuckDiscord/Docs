@@ -2,6 +2,7 @@
 ## Contents
 1. [What are dependencys](#what-are-dependencys)  
 1. [How to install dependencys](#how-to-install-dependencys)  
+1. [virtual enviroments](#virtual-enviroments)
 1. [requirments.txt](#requirmentstxt)  
 1. [setup.py](#setuppy)  
 1. [package conflicts](#package-conflicts)
