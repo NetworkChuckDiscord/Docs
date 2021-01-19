@@ -1,15 +1,15 @@
-# Installing dependencys in Python
+# Installing dependencies in Python
 ## Contents
-1. [What are dependencys](#what-are-dependencys)  
-1. [How to install dependencys](#how-to-install-dependencys)  
+1. [What are dependencies](#what-are-dependencies)  
+1. [How to install dependencies](#how-to-install-dependencies)  
 1. [virtual enviroments](#virtual-enviroments)
 1. [requirments.txt](#requirmentstxt)  
 1. [setup.py](#setuppy)  
 1. [package conflicts](#package-conflicts)
-## What are dependencys
+## What are dependencies
 Dependecy are files that contain that are needed by your program in order to run, They can be compiled functions, librarys, or even compiled binarys.
-## How to install dependencys
-The main tool used to install python dependencys is `pip`, there are 3 way a program can be installed
+## How to install dependencies
+The main tool used to install python dependencies is `pip`, there are 3 way a program can be installed
 - `pip install [program]` install as a system program. This works however can be really messy so is usaully not reccomended.
 - `pip install [program] --user` installs a program in the users default envroment. This is also messy but not as bad as installing it systemwide.
 - [virtual enviroments](##-virtual-enviroments) The best option see setion for more details.
@@ -29,13 +29,13 @@ A virtual enviroment is the best option for installing packages with python can 
   #### NOTE: You probaly don't want to do this if you have multiple virtual enviroments installed ####
   
   ### 1. Conda  
-  This is the main method used by the scientific/math users id allows for more types of dependencys for more details see here.  
+  This is the main method used by the scientific/math users id allows for more types of dependencies for more details see here.  
   https://docs.conda.io/en/latest/
       
   
 
 ## Requirments.txt   
-the requirments.txt file is a listing of dependencys needed by the program you are using there are 4 ways a file can be listed there
+the requirments.txt file is a listing of dependencies needed by the program you are using there are 4 ways a file can be listed there
 - package installs the latest version of the package
 - package==version installs the listed version of the package
 - package=>version installs the latest version of the package assuming its greater then version
