@@ -1,8 +1,7 @@
 # Installing dependencys in Python
 ## Contents
-1. [What are dependencys](#What-are-dependencys)  
-1. [How to install dependencys](#Installing-the-correct-version)  
-1. [Installing the correct version](#Installing-the-correct-version)  
+1. [What are dependencys](#what-are-dependencys)  
+1. [How to install dependencys](#how-to-install-dependencys)  
 1. [requirments.txt](#requirmentstxt)  
 1. [setup.py](#setuppy)  
 1. [package conflicts](#package-conflicts)
