@@ -13,6 +13,11 @@ The main tool used to install python dependencys is `pip`, there are 3 way a pro
 - `pip install [program] --user` installs a program in the users default envroment. This is also messy but not as bad as installing it systemwide.
 - [virtual enviroments](##-virtual-enviroments) The best option see setion for more details.
 ## virtual enviroments
-## Installing the correct version
+A virtual enviroment is the best option for installing packages with python can provide multiple clean working enviroments and help to avoid alot of dependency issues. There are two main python enviroment managers.
+  1. virtualenv and pip
+  ...
+  1. conda
+  ...
+## Package conflicts
 ## Requirments.txt
 ## Setup.py
