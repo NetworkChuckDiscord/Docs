@@ -3,8 +3,8 @@
 1. [What are dependencys](#What-are-dependencys)  
 1. [How to install dependencys](#Installing-the-correct-version)  
 1. [Installing the correct version](#Installing-the-correct-version)  
-1. [requirments.txt](#requirments.txt)  
-1. [setup.py](#setup.py)  
+1. [requirments.txt](#requirmentstxt)  
+1. [setup.py](#setuppy)  
 1. [package conflicts](#package-conflicts)
 ## What are dependencys
 Dependecy are files that contain that are needed by your program in order to run, They can be compiled functions, librarys, or even compiled binarys.
