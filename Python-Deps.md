@@ -25,6 +25,8 @@ A virtual enviroment is the best option for installing packages with python can 
    If you want to autostart your envirment on startup then add it to your startup script. For bash it looks something like this:
 
        $ echo 'source myenv/bin/activate' >> ~/.bashrc
+       
+  #### NOTE: You probaly don't want to do this if you have multiple virtual enviroments installed ####
   
   ### 1. Conda  
   This is the main method used by the scientific/math users id allows for more types of dependencys for more details see here.  
