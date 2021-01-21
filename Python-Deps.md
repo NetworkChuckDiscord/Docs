@@ -34,7 +34,7 @@ A virtual enviroment is the best option for installing packages with python can 
       
   
 
-## Requirments.txt   
+## Requirements.txt   
 the requirments.txt file is a listing of dependencies needed by the program you are using there are 4 ways a file can be listed there
 - package installs the latest version of the package
 - package==version installs the listed version of the package
