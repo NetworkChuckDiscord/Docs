@@ -3,7 +3,7 @@
 1. [What are dependencies](#what-are-dependencies)  
 1. [How to install dependencies](#how-to-install-dependencies)  
 1. [virtual enviroments](#virtual-enviroments)
-1. [requirments.txt](#requirmentstxt)  
+1. [requirements.txt](#requirementstxt)  
 1. [setup.py](#setuppy)  
 1. [package conflicts](#package-conflicts)
 ## What are dependencies
@@ -35,13 +35,13 @@ A virtual enviroment is the best option for installing packages with python can 
   
 
 ## Requirements.txt   
-the requirments.txt file is a listing of dependencies needed by the program you are using there are 4 ways a file can be listed there
+the requirements.txt file is a listing of dependencies needed by the program you are using there are 4 ways a file can be listed there
 - package installs the latest version of the package
 - package==version installs the listed version of the package
 - package=>version installs the latest version of the package assuming its greater then version
 - package=<version installs the latest version of the package up untill version
 
-The programs listed in requirments.txt can be easily installed using:  
+The programs listed in requirements.txt can be easily installed using:  
 
     $ pip install -r requirments.txt 
 
